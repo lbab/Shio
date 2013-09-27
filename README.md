@@ -1,4 +1,8 @@
-Shio
+Shio (Shafan Image Optimise)
 ====
 
-Shafan Image Optimise for png and jpg with optipng and jpegoptim
+Improve the performance of your website via squeezing png and jpg files without affecting the quality of it.
+
+Shio (Shafan Image Optimise) does the compression using optipng and jpegoptim. Compress a single image file or in a batch.
+
+See samples.php file for sample usage.
